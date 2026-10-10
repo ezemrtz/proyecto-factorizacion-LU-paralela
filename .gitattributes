@@ -1,0 +1,6 @@
+# Forzar finales de línea LF en todo el repo (se compila y corre en Linux/WSL/cluster).
+# Evita que el script .sh falle por CRLF al clonar desde Windows.
+* text=auto eol=lf
+*.sh text eol=lf
+*.c  text eol=lf
+*.py text eol=lf

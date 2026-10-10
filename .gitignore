@@ -1,0 +1,16 @@
+# Ejecutables compilados
+lu_serial
+lu_mpi
+*.o
+*.out
+
+# Resultados y figuras generadas por las corridas
+resultados*.csv
+*.png
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
