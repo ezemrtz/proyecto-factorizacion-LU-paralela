@@ -30,7 +30,7 @@ y **paralela con MPI**, con medición de **speedup** y del **error residual ‖A
 | `graficar.py` | Genera las **figuras** a partir de un CSV (detecta el tipo por sus columnas). |
 | `Makefile` | Compila ambos programas (opcional; `medir.sh` ya compila). |
 | `resultados/Cluster/`, `resultados/pc/` | CSV y figuras de cada equipo. |
-| `informe/` | Informe final en Word (`.docx`). |
+| `informe/` | Informe final en PDF |
 
 ---
 
